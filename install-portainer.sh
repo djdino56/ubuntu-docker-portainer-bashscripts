@@ -3,7 +3,7 @@
 # https://docs.portainer.io/start/install-ce/server/docker/linux 
 #
 # SET VARIABLES
-timezone="America/Vancouver"
+timezone="Europe/Amsterdam"
 volume_path="/mnt/volumes/portainer"
 #
 # START PORTAINER
